@@ -1,7 +1,7 @@
 # memorial and funeral arrangements site
 I originally built this as a central place people could go to find out about funeral arrangements for my dad. I have open sourced it in the hope I hope someone else in a similar situation is able to find it useful.
 
-If you need help getting this set up feel free to reach out on discord 
+If you need help getting this set up feel free to reach out on discord - https://discord.gg/tmjWy8ta
 
 ## Build Setup
 
