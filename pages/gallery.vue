@@ -43,7 +43,7 @@ import 'vue-cool-lightbox/dist/vue-cool-lightbox.min.css'
   },
   mounted() {
     this.importAll(require.context('~/assets/', true, /\.(png|jpe?g|svg)$/));
-    this.importThumbs(require.context('~/assets/images/', true, /\.(png|jpe?g|svg)$/));
+    this.importThumbs(require.context('~/assets/', true, /\.(png|jpe?g|svg)$/));
   },
 
   methods: {
